@@ -1,5 +1,5 @@
 body {
-	-webkit-animation: foo 2s;
-	-o-animation: foo 2s;
-	animation: foo 2s;
+	-webkit-animation: foo 5s;
+	-o-animation: foo 5s;
+	animation: foo 5s;
 }
