@@ -1,0 +1,1 @@
+function getPrice(){return 100}function getName(){return"Gerwin"}var js="gerwin";
