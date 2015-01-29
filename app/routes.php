@@ -4,7 +4,7 @@
 
 Route::get('/', function()
 {
-    return View::make('login.login');
+    dd(Config::get('database.connections.mysql'));
 });
 
 /**
