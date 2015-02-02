@@ -17,6 +17,12 @@ AngularUI (http://angular-ui.github.io)
 More info...
 
 Remove
+Auto Brackets
+Marti Planellas (http://github.com/beldar)
+0.0.9	 When you write { , [ or ( and press enter, closes the tag and leaves the cursor in the middle line with correct indentation.
+More info...
+
+Remove
 Beautify
 Drew Hamlett i@drewh.me (https://github.com/drewhamlett/)
 1.1.6	 Format JavaScript, HTML, and CSS files
@@ -81,6 +87,12 @@ More info...
 
 
 Translated into 11 languages, including yours	Remove
+CoffeeScript
+Giovanni Calò
+1.0.1	 Improves syntax highlighting for CoffeeScript.
+More info...
+
+Remove
 Console Plus
 Matthieu Lassalvy
 1.4.3	 Shows console.logs &.errors without leaving Brackets. + Toolbar Icon & Notifier, Filters by logs/errors, Errors stacks details and.... a very nice look + Update: log window object error
