@@ -1,4 +1,4 @@
-<?php
+<?php // .env.local.php
 
 return [
     'APP_ENV' => 'dev',
