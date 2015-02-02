@@ -15,7 +15,7 @@ Route::group(['prefix' => 'api'],function()
 
 });
 
-Route::group('login', function(){
+Route::get('login', function(){
 
 
 });
